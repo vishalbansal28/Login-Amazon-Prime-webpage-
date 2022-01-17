@@ -9,4 +9,4 @@ This a simple project where i created a clone of amazon prime login page using o
 </ul>
 <h3>How to run the project</h3><br>
 Running the project is easy.The user only have to scroll up and down .<br>
-Link for the website-https://vishalbansal28.github.io/Prime-Video-Login-Page-Clone/
+Link for the website-https://vishalbansal28.github.io/Login-Amazon-Prime-webpage-/
