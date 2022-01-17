@@ -10,6 +10,3 @@ This a simple project where i created a clone of amazon prime login page using o
 <h3>How to run the project</h3><br>
 Running the project is easy.The user only have to scroll up and down .<br>
 Link for the website-
-Here Are Some Pictures:-<br>
-<image src=""> </image>
-<image src=""></image>
